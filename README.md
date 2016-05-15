@@ -1,5 +1,5 @@
 # Shhh <img src="./assets/librarian.png" width="70"/>
-[![](https://travis-ci.org/bennybauer/shhh.svg?branch=master)](https://travis-ci.org/bennybauer/shhh)
+[![](https://travis-ci.org/bennybauer/Shhh.svg?branch=master)](https://travis-ci.org/bennybauer/Shhh)
 
 Use Shhh app to reduce noise from your slack channels, by anonymously asking members to take the discussion to a proper channel. 
 Based on [SlackPolice](https://medium.com/@farski/learn-aws-api-gateway-with-the-slack-police-ca8d636e9fc0)
