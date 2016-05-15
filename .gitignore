@@ -37,7 +37,7 @@ node_modules
 
 # SERVERLESS
 admin.env
-_meta/variables/s-variables-common.json
+_meta
 vendored
 
 # Python

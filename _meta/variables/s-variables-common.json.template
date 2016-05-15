@@ -1,9 +1,0 @@
-{
-  "project": "<project_name>",
-  "slackVerificationToken": "<slack_verification_token>",
-  "slackAppName": "<slack_app_name>",
-  "slackAppId": "<slack_app_id>",
-  "slackAppSecret": "<slack_app_secret>",
-  "slackAppRedirectUri": "<slack_app_redirect_uri>",
-  "slackAppWelcomePage": "<slack_app_welcome_page>"
-}
