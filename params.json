@@ -1,0 +1,6 @@
+{
+  "name": "Shhh",
+  "tagline": "Deal with noisy Slack channels",
+  "body": "# Shhh <img src=\"https://github.com/bennybauer/Shhh/blob/master/assets/librarian.png?raw=true\" width=\"70\"/>\r\n\r\nDeal with noisy Slack channels! Use Shhh app to reduce noise from your slack channels, by anonymously asking members to take the discussion to a proper channel.\r\n\r\n<a href=\"https://slack.com/oauth/authorize?scope=incoming-webhook,commands&client_id=2778138625.43078290818\"><img alt=\"Add to Slack\" height=\"40\" width=\"139\" src=\"https://platform.slack-edge.com/img/add_to_slack.png\" srcset=\"https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x\" /></a>\r\n\r\nThanks for adding Shhh!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
