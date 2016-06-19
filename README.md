@@ -22,7 +22,7 @@ Clone this repository
 	
 Install it
 
-	sls project install
+	sls project init
 
 Add `s-variables-common.json` file to `_meta/variables` folder:
 
