@@ -20,12 +20,9 @@ Clone this repository
 
 	git clone https://github.com/bennybauer/Shhh.git
 	
+Install it
 
-Add admin.env file to root folder:
-
-```
-AWS_DEV_PROFILE=<your aws profile>
-```
+	sls project install
 
 Add `s-variables-common.json` file to `_meta/variables` folder:
 
